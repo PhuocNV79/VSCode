@@ -10,3 +10,4 @@
 10. `cmd K , cmd W` : tat file hien tai
 11. `cmd shift T` : mo lai file vua tat
 12. `cmd \`: chia doi man hinh code
+13. `cmd mui ten len, xuong`: tien len dau trang hoac cuoi trang
