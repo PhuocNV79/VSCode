@@ -9,4 +9,4 @@
 9. `opt cmd s` : luu tat ca cac file hien tai
 10. `cmd K , cmd W` : tat file hien tai
 11. `cmd shift T` : mo lai file vua tat
-12. 
+12. `cmd \`: chia doi man hinh code
