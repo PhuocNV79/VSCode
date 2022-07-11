@@ -12,3 +12,4 @@
 12. `cmd \`: chia doi man hinh code
 13. `cmd mui ten len, xuong`: tien len dau trang hoac cuoi trang
 14. `shift cmd enter` : add new line above
+15. `cmd enter` : insert line below
